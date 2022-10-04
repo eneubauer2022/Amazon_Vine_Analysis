@@ -16,6 +16,8 @@ There were a total of 125 paid 5 – star reviews.
 
 The percentage of 5-star reviews when the review was paid for was: 46.99%
 
+![this is an image](https://github.com/eneubauer2022/Amazon_Vine_Analysis/blob/main/Paid%20Reviews%20Data.png)
+
 
 ## Unpaid Reviews:
 
@@ -23,9 +25,9 @@ There were a total of 38,829 reviews that were not paid.
 
 There were a total of 18,246 non-paid 5- star reviews.
 
-The percentage of 5- star reviews when the review was not paid was: 46.99%.
+The percentage of 5- star reviews when the review was not paid for was: 46.99%.
 
-
+![this is an image](https://github.com/eneubauer2022/Amazon_Vine_Analysis/blob/main/unpaid%20reviews.png)
 
 # Summary 
 
@@ -35,4 +37,4 @@ There seems to be no real difference if the review is incentivized by free produ
 # Additional Analysis 
 An additional way to analyze the data is to compare the mean of the star rating from paid reviews compared to non-paid reviews. The mean from the paid reviews is higher than the mean for unpaid reviews:
 
-
+![this is an image](https://github.com/eneubauer2022/Amazon_Vine_Analysis/blob/main/mean.png)
